@@ -1,0 +1,2 @@
+/home/minh/Projects/JetsonTK1Projects/OpenCVTest/CMakeFiles/DisplayImage.dir
+/home/minh/Projects/JetsonTK1Projects/OpenCVTest/CMakeFiles/videoCap.dir
